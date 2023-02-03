@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Muhammad Bilal.
-- 👀 I’m interested in Front-End Web Development, WordPress, Shopify, Webflow and UI/UX Design.
-- 🌱 I’m currently learning JavaScript and its Frameworks.
-- 💞️ I’m looking to collaborate on Front-End and Wordpress Development.
-- 📫 You can reach out to me at bilalkk63@gmail.com
+💻 3+ years experience as a WordPress and front-end developer
 
-<!---
-bilalkk9/bilalkk9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Strong expertise in HTML, CSS, JavaScript, and PHP
+
+💻 Proficient in WordPress theme and plugin development
+
+💻 In-depth understanding of modern front-end frameworks
+
+🎨 Passion for creating visually stunning and user-friendly websites
+
+💪 Committed to delivering high-quality, responsive websites that meet clients' needs
+
+📈 Stay up-to-date with the latest industry trends and technologies
+
+🚀 Always eager to take on new challenges and build something great!
