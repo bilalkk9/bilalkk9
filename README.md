@@ -1,15 +1,21 @@
-💻 3+ years experience as a WordPress and front-end developer
+👨‍💻 Front-End & WordPress Developer | React Enthusiast
 
-💻 Strong expertise in HTML, CSS, JavaScript, and PHP
+🏆 Over 3 years of hands-on experience crafting dynamic websites:
 
-💻 Proficient in WordPress theme and plugin development
+⚙️ Expertise in HTML, CSS, JavaScript, and PHP for seamless web interactions.
 
-💻 In-depth understanding of modern front-end frameworks
+🎨 A keen eye for design, transforming visions into visually captivating websites.
 
-🎨 Passion for creating visually stunning and user-friendly websites
+🧩 Proficient in WordPress theme and plugin development for versatile functionality.
 
-💪 Committed to delivering high-quality, responsive websites that meet clients' needs
+⚛️ Solid understanding of modern front-end frameworks, with a focus on React.
 
-📈 Stay up-to-date with the latest industry trends and technologies
+🌐 Passionate about creating user-friendly interfaces that leave a lasting impression.
 
-🚀 Always eager to take on new challenges and build something great!
+📈 Dedicated to delivering responsive websites that exceed client expectations.
+
+🚀 Embracing challenges with enthusiasm, building digital experiences that shine!
+
+🔍 Committed to staying updated with the latest industry trends and technologies.
+
+Connect with me to collaborate on your next web masterpiece!
